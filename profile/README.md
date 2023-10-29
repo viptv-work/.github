@@ -6,6 +6,5 @@
   
 🔗 https://viptv.work
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=600&random=false&lines=简单, 强大, 快速, 无广告, 最高质量的IPTV服务." />
 </div>
 
